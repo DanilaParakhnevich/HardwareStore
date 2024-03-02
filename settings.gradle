@@ -1,0 +1,5 @@
+rootProject.name = 'HardwareStore'
+include 'persistance'
+include 'controller'
+include 'service'
+
